@@ -1,4 +1,4 @@
-# 💾 AWS EBS — Partitions, Mounting & Snapshot Automation (DevOps Notes)
+# 💾 AWS EBS — Partitions, Mounting & Snapshot Automation 
 
 ---
 
