@@ -1,4 +1,4 @@
-# 🚀 AWS EFS with EC2 — Practical Guide (DevOps Ready)
+# 🚀 AWS EFS with EC2 — Practical Guide 
 
 ### 📌 Goal
 
