@@ -20,7 +20,7 @@ NFS allows one machine to **share its directory over a network**, so other machi
 * Server → shares directory
 * Client → mounts it
 * Communication → happens over network (TCP)
-
+* 
 ```
 NFS Server (/data)
         ↓  (Port 2049)
